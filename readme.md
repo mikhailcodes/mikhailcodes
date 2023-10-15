@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/mikhailarden" target="blank"><img src="https://img.shields.io/twitter/follow/mikhailarden?logo=twitter&style=for-the-badge" alt="mikhailarden" /></a> </p>
 
-- 🔭 I’m currently working on **RelayPay**
 
 - 👨‍💻 All of my projects are available at [mikhailarden.com](mikhailarden.com)
 
